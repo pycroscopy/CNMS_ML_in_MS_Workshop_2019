@@ -23,6 +23,6 @@ Time | Details
 Most of the day will consist of working through Jupyter notebooks. These can either be run locally if you have the Jupyter notebook program and python installed (we reccomend Anaconda's distribution - https://www.anaconda.com/distribution/ ), or more easily these can be run online via google colab. Use the instructions below:
 
 1. Navigate to https://colab.research.google.com/
-2. Click on the Github tab
-3. Type https://github.com/pycroscopy/CNMS_ML_in_MS_Workshop_2019/Notebooks
+2. Click on the Github tab. Allow authorization if prompted.
+3. Type https://github.com/pycroscopy/CNMS_ML_in_MS_Workshop_2019
 4. Select the notebook you wish to run
